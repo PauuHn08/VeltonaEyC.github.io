@@ -1,0 +1,38 @@
+/*Fondo*/
+
+body{
+    background-color: #e0e0e0;
+    margin: 0;
+}
+
+header{
+   display: flex;
+   justify-content: space-between;
+   background-color: hsl(0, 0%, 76%);  
+   height: 50px;
+   align-items: center;
+   padding: 10px;
+
+}
+
+.logo{
+    height: 120%;
+}
+
+.logo img{
+    height: 100%;
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+nav a{
+    font-weight: 800;
+    padding-right: 55px;
+    color: #1c1a60;
+}
+
+nav a:hover{
+    color: #fff;
+}
