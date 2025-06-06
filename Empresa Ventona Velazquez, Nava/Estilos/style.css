@@ -1,0 +1,28 @@
+header{ 
+    background-color: #253385;
+}
+
+.img-container{
+    background-image: url('/Imagenes/modern-city-abstract-background-many-260nw-2480683451.webp');
+    height: 45vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
+
+.nosotros{
+    text-align: justify;
+    padding: 70px;
+    font-size: 20px;
+    position: center;
+}
+.img-fluid{
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
